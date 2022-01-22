@@ -1,5 +1,5 @@
 👋 Hi, I’m @RafaBS8
-👀 I’m learning and interested in software development and urban fashion. Also software design is my strength and learning languages.
+👀 I’m learning and interested in software development and urban fashion. Also software design and learning languages are my strengths.
 
 
 <!---
